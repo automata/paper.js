@@ -2,7 +2,7 @@
   "name": "paper",
   "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.",
   "repo": "automata/paper.js",
-  "main": "paper.js",
+  "main": "dist/paper.js",
   "scripts": [
     "dist/paper.js"
   ]
